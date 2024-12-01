@@ -4,13 +4,13 @@
 헤어, 패션, 화장에 있어서 더 나은 선택을 할 수 있도록 얼굴 분석을 통해 정보를 제공합니다. 이미지 데이터를 이용하여 얼굴형 분석 기반 헤어스타일을 추천하고, 피부색 분석 기반 퍼스널컬러를 예측합니다.
 또한, 유저 간 채팅방을 만들어 더욱 다양한 정보 공유가 이루어질 수 있도록 하고 있습니다. 각 퍼스널 컬러 및 얼굴형 별 채팅방을 만들어 놓았고, 유저가 원하는 채팅방에 들어가 유저끼리 대화를 나눌 수 있습니다.
 
-![image](https://github.com/user-attachments/assets/f7e095dd-2e1b-4b8f-b1c0-812be43bbe6e)
+![376439365-f7e095dd-2e1b-4b8f-b1c0-812be43bbe6e](https://github.com/user-attachments/assets/afe43fd8-d292-42b3-87e9-5f8d54a98b8a)
 
 allrange라는 로고는 모든 범위를 다 다뤄보겠다는 의미로 선정하였고, 오렌지와 비슷한 발음으로 대표 컬러 또한 오렌지색(#FF9A42)으로 선택하였습니다.
 
 
 # 2. 프로젝트 구조
-![image](https://github.com/user-attachments/assets/8bc56d2a-aab8-40aa-9054-1fec2b7d1066)
+![376442376-8bc56d2a-aab8-40aa-9054-1fec2b7d1066](https://github.com/user-attachments/assets/5a2ccc7c-2f9d-4858-baf2-c4792edad52a)
 
 # 3. 웹 페이지 사용 방법
 #### (1) 사진 첨부 방법
